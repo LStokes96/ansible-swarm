@@ -1,0 +1,7 @@
+[common]
+35.246.120.188
+34.89.121.44
+
+[common:vars]
+ansible_user=lstokes
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'

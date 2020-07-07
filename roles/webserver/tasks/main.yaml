@@ -1,0 +1,4 @@
+- name: "Init swarm"
+  docker_swarm:
+    state: pressent
+
